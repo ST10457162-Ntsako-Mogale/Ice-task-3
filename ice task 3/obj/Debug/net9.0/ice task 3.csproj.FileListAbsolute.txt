@@ -1,0 +1,9 @@
+C:\Users\Mahum\OneDrive\Documentos\SGELA\CLDV6211\ICE TASKS\Ice-task-3\ice task 3\obj\Debug\net9.0\ice task 3.csproj.AssemblyReference.cache
+C:\Users\Mahum\OneDrive\Documentos\SGELA\CLDV6211\ICE TASKS\Ice-task-3\ice task 3\obj\Debug\net9.0\ice task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahum\OneDrive\Documentos\SGELA\CLDV6211\ICE TASKS\Ice-task-3\ice task 3\obj\Debug\net9.0\ice task 3.AssemblyInfoInputs.cache
+C:\Users\Mahum\OneDrive\Documentos\SGELA\CLDV6211\ICE TASKS\Ice-task-3\ice task 3\obj\Debug\net9.0\ice task 3.AssemblyInfo.cs
+C:\Users\Mahum\OneDrive\Documentos\SGELA\CLDV6211\ICE TASKS\Ice-task-3\ice task 3\obj\Debug\net9.0\ice task 3.csproj.CoreCompileInputs.cache
+C:\Users\Mahum\OneDrive\Documentos\SGELA\CLDV6211\ICE TASKS\Ice-task-3\ice task 3\obj\Debug\net9.0\ice task 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mahum\OneDrive\Documentos\SGELA\CLDV6211\ICE TASKS\Ice-task-3\ice task 3\obj\Debug\net9.0\ice task 3.RazorAssemblyInfo.cache
+C:\Users\Mahum\OneDrive\Documentos\SGELA\CLDV6211\ICE TASKS\Ice-task-3\ice task 3\obj\Debug\net9.0\ice task 3.RazorAssemblyInfo.cs
+C:\Users\Mahum\OneDrive\Documentos\SGELA\CLDV6211\ICE TASKS\Ice-task-3\ice task 3\obj\Debug\net9.0\ice task 3.sourcelink.json
